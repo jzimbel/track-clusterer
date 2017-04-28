@@ -10,7 +10,7 @@ Virtualenvs will also help.
 1. Make a virtualenv for the project. (Optional)  
    ```$ mkvirtualenv track-clusterer```
 2. Go to the directory of the project, and install dependencies.  
-   ```$ cd project```  
+   ```$ cd track-clusterer```  
    ```$ pip install -r requirements.txt```
 3. Now you need to grab your Spotify ID.
    Open Spotify and click on your name at the top right. Click the "..." menu
